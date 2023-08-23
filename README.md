@@ -1,15 +1,4 @@
 
-استكشاف مع ملك
-برمجة مع ملك 
-
-Deep work book 
-الماجريات 
-// re-look into this : 
-handleSingleLoanPaymentRuntime
-
-
-
-https://www.youtube.com/watch?v=BsUXWNY3yH0
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
@@ -23,7 +12,7 @@ https://www.youtube.com/watch?v=BsUXWNY3yH0
 
 <br />
 
-hi, i'm [Abdulmalik Alshugaa] a passionate self-taught mobile developer and a freelance mobile engineer born in Yemen and rais in Malaysia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I'm Abdulmalik Alshugaa a passionate senior mobile developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 
 
@@ -54,11 +43,6 @@ hi, i'm [Abdulmalik Alshugaa] a passionate self-taught mobile developer and a fr
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 

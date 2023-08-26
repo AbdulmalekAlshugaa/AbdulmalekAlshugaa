@@ -17,3 +17,8 @@ I am Abdulmalik Alshugaa, a full stack mobile developer.
 
 [instagram]: https://www.instagram.com/abdulmalik.js
 [linkedin]: https://www.linkedin.com/in/shehab-sha-lan-a66b95125/
+
+Top three mobile applicationo I have work on:
+1. https://apps.apple.com/my/app/moneylion-go-to-money-app/id1064677082 \ MoneyLion (Loan Pod)
+2. https://apps.apple.com/my/app/socar-malaysia/id1546059821 \ [Socar]
+3. https://apps.apple.com/us/app/trevo-car-sharing-done-right/id1477029889 [Trevo]

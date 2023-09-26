@@ -8,6 +8,8 @@ I am Abdulmalik Alshugaa, a full stack mobile developer.
 - 👨🏻‍💻 Coding and building fun stuff.
 - 🌱 Exploring different technologies.
 
+## Moneylion contribution 
+https://github.com/Aalshugaa-ml
 
 ### Languages and Tools:
 
@@ -23,6 +25,4 @@ Top three mobile applicationo I have work on:
 2. https://apps.apple.com/my/app/socar-malaysia/id1546059821 \ [Socar]
 3. https://apps.apple.com/us/app/trevo-car-sharing-done-right/id1477029889 [Trevo]
 
-MoneyLion code contrbution 
-https://github.com/Aalshugaa-ml
 

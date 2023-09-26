@@ -22,3 +22,8 @@ Top three mobile applicationo I have work on:
 1. https://apps.apple.com/my/app/moneylion-go-to-money-app/id1064677082 \ MoneyLion (Loan Pod)
 2. https://apps.apple.com/my/app/socar-malaysia/id1546059821 \ [Socar]
 3. https://apps.apple.com/us/app/trevo-car-sharing-done-right/id1477029889 [Trevo]
+
+MoneyLion code contrbution 
+https://github.com/Aalshugaa-ml
+<img width="1632" alt="Screenshot 2023-09-27 at 12 03 05 AM" src="https://github.com/AbdulmalekAlshugaa/AbdulmalekAlshugaa/assets/33663456/f26e16b5-62a3-44e8-b759-ec341fb4fc18">
+

@@ -2,6 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmalik-alshugaa/)
 
 I am Abdulmalik Alshugaa, a full stack mobile developer.
+Currently working as Mobile Engineer @MoneyLion 
 
 ## What I am doing
 
